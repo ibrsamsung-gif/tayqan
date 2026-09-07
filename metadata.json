@@ -1,0 +1,8 @@
+{
+  "name": "ما وراء المحتوى | تَيَقَّن",
+  "description": "برنامج مخيم ما وراء المحتوى من منصة تيقن، 20–22 نيسان / أبريل 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
